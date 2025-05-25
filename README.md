@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">A passionate Software Developer and Data Engineer, who latly finished hist Bachelor in Computer Science and Digital Communications🎓<br><br>🔭 Currently working as a Data Engineer<br><br>📚 Learning PySpark to deepen my Big Data skills<br><br>⚡ In my free time, I love coding, going to the gym, and runnin</p>
+<p align="left">A passionate Software Developer and Data Engineer, who latly finished his Bachelor in Computer Science and Digital Communications🎓<br><br>  🔭 Currently working as a Data Engineer<br><br>  📚 Learning PySpark to deepen my Big Data skills<br><br>  ⚡ In my free time, I love coding, going to the gym, and runnin</p>
 
 ###
 
@@ -69,12 +69,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YusufYrkl&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
